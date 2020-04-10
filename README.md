@@ -1,3 +1,3 @@
 # Estudando Web Crawler
 
-Repositório com exercícios gfetio nos estudos de webcrawler
+Repositório com exercícios feitos nos estudos de webcrawler
